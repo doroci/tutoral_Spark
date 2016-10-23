@@ -1,5 +1,15 @@
-# spark_study
+# Spark Basic
 
-Spark Study
+leanring spark
 
-add worldCount
+*  What is Spark?
+*  Spark RDD!
+```
+  Trasnforamtion
+```
+```
+  Action
+```
+
+*  RDD practice
+
